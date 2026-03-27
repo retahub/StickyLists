@@ -1,24 +1,24 @@
 # Sticky Lists
 
-A minimalist checklist app for iOS built with SwiftUI. Create and organize your to-do lists with colorful sticky note-style cards.
+A minimalist checklist app for iOS built with SwiftUI and Claude AI. Create and organize your to-do lists with colorful sticky note-style cards. 
 
 ## Features
 
-### 📝 Core Functionality
+### Core Functionality
 - **Create Custom Lists**: Build checklists for any purpose with a simple, intuitive interface
 - **Category Organization**: Organize lists by categories (Personal, Work, Shopping, Travel, etc.)
 - **Interactive Checklists**: Check off items as you complete them with smooth animations
 - **Progress Tracking**: Visual progress bars show completion status at a glance
 - **Archive Completed Lists**: Keep your active view clean by archiving finished lists
 
-### 🎨 Design
+### Design
 - **Pastel Color Palette**: Choose from a variety of soft, pleasant colors for each list
 - **Masonry Grid Layout**: Cards automatically arrange in an elegant, Pinterest-style grid
 - **Light Grey Background**: Easy on the eyes with a subtle, modern aesthetic
 - **Category Badges**: Quickly identify list types with colored icons and labels
 - **Completion Celebrations**: "All done!" banner appears when lists are completed
 
-### 🔄 List Management
+### List Management
 - **Edit Anytime**: Modify lists, add/remove items, change colors and categories
 - **Archive System**: Store completed lists in a dedicated archive tab
 - **Restore from Archive**: Bring back archived lists when needed
